@@ -1,6 +1,8 @@
 # DrawerLayoutTest
 Toolbar + DrawerLayout
 
+http://www.jcodecraeer.com/uploads/20150303/1425353302511647.gif
+
 1.添加Toolbar
 
 由于Toolbar是继承自View，所以可以像其他标准控件一样直接主布局文件添加Toolbar，但是为了提高Toolbar的重用效率，可以在layout创建一个custom_toolbar.xml代码如下：
