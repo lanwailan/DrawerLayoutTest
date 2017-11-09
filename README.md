@@ -1,6 +1,7 @@
 # DrawerLayoutTest
 Toolbar + DrawerLayout
 
+Demo View
 http://www.jcodecraeer.com/uploads/20150303/1425353302511647.gif
 
 1.添加Toolbar
